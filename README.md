@@ -31,7 +31,7 @@ com.el.task2/
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/debugwithpriya/SRMS_Task2.git
+  git clone https://github.com/debugwithpriya/SRMS_Task2.git
 
 2. **Navigate to the project directory**
 
